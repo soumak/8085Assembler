@@ -1,0 +1,315 @@
+D:\my projects\ALL\ALL\bin\Debug\ALL.exe
+D:\my projects\ALL\ALL\bin\Debug\ALL.pdb
+D:\my projects\ALL\ALL\bin\Debug\ALL.xml
+D:\my projects\ALL\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\my projects\ALL\ALL\obj\x86\Debug\ALL.Form1.resources
+D:\my projects\ALL\ALL\obj\x86\Debug\ALL.Resources.resources
+D:\my projects\ALL\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\my projects\ALL\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\my projects\ALL\ALL\obj\x86\Debug\ALL.exe
+D:\my projects\ALL\ALL\obj\x86\Debug\ALL.xml
+D:\my projects\ALL\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\C J\Downloads\ALL\ALL\obj\x86\Debug\ALL.exe
+C:\Users\C J\Downloads\ALL\ALL\obj\x86\Debug\ALL.xml
+C:\Users\C J\Downloads\ALL\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\C J\Downloads\ALL\ALL\bin\Debug\ALL.exe
+C:\Users\C J\Downloads\ALL\ALL\bin\Debug\ALL.pdb
+C:\Users\C J\Downloads\ALL\ALL\bin\Debug\ALL.xml
+C:\Users\C J\Downloads\ALL\ALL\obj\x86\Debug\ALL.Form1.resources
+C:\Users\C J\Downloads\ALL\ALL\obj\x86\Debug\ALL.Resources.resources
+C:\Users\C J\Downloads\ALL\ALL\obj\x86\Debug\ALL.vbproj.GenerateResource.Cache
+D:\my projects\ALL 1\ALL\bin\Debug\ALL.exe
+D:\my projects\ALL 1\ALL\bin\Debug\ALL.pdb
+D:\my projects\ALL 1\ALL\bin\Debug\ALL.xml
+D:\my projects\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\my projects\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+D:\my projects\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+D:\my projects\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+D:\my projects\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\my projects\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\my projects\ALL 1\ALL\obj\x86\Debug\ALL.exe
+D:\my projects\ALL 1\ALL\obj\x86\Debug\ALL.xml
+D:\my projects\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\Kiddo\Downloads\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.exe
+C:\Users\Kiddo\Downloads\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.xml
+C:\Users\Kiddo\Downloads\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\Kiddo\Downloads\ALL 2\ALL 1\ALL\bin\Debug\ALL.exe
+C:\Users\Kiddo\Downloads\ALL 2\ALL 1\ALL\bin\Debug\ALL.pdb
+C:\Users\Kiddo\Downloads\ALL 2\ALL 1\ALL\bin\Debug\ALL.xml
+C:\Users\Kiddo\Downloads\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+C:\Users\Kiddo\Downloads\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+C:\Users\Kiddo\Downloads\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+C:\Users\Kiddo\Downloads\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.vbproj.GenerateResource.Cache
+C:\Users\Kiddo\Downloads\ALL 2\ALL 1\ALL\bin\Debug\Database1.sdf
+C:\Users\Kiddo\Downloads\ALL 2\ALL 1\ALL\bin\Debug\ALL.exe.config
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\ALL.exe.config
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.exe
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.xml
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\Database1.sdf
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\ALL.exe
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\ALL.pdb
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\ALL.xml
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Sem 4\Assembler\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\ALL.exe.config
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.exe
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.xml
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\Database1.sdf
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\ALL.exe
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\ALL.pdb
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\ALL.xml
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Piyush Dhore\Downloads\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\ALL.exe.config
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.exe
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.xml
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\Database1.sdf
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\ALL.exe
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\ALL.pdb
+D:\Sem 4\Assembler\ALL 5\ALL 4 (1)\ALL 3\ALL 2\ALL 1\ALL\bin\Debug\ALL.xml
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\bin\Debug\ALL.exe.config
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\obj\x86\Debug\ALL.exe
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\obj\x86\Debug\ALL.xml
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\bin\Debug\Database1.sdf
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\bin\Debug\ALL.exe
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\bin\Debug\ALL.pdb
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\bin\Debug\ALL.xml
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Sem 4\Systems Programming\Assembler\ALL 6\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\bin\Debug\ALL.exe.config
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\obj\x86\Debug\ALL.exe
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\obj\x86\Debug\ALL.xml
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\bin\Debug\Database1.sdf
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\bin\Debug\ALL.exe
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\bin\Debug\ALL.pdb
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\bin\Debug\ALL.xml
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Piyush Dhore\Downloads\ALL 7\ALL 1\ALL\obj\x86\Debug\ALL.Form3.resources
+D:\my projects\ALL 8\ALL 1\ALL\bin\Debug\ALL.exe.config
+D:\my projects\ALL 8\ALL 1\ALL\obj\x86\Debug\ALL.exe
+D:\my projects\ALL 8\ALL 1\ALL\obj\x86\Debug\ALL.xml
+D:\my projects\ALL 8\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+D:\my projects\ALL 8\ALL 1\ALL\bin\Debug\Database1.sdf
+D:\my projects\ALL 8\ALL 1\ALL\bin\Debug\ALL.exe
+D:\my projects\ALL 8\ALL 1\ALL\bin\Debug\ALL.pdb
+D:\my projects\ALL 8\ALL 1\ALL\bin\Debug\ALL.xml
+D:\my projects\ALL 8\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\my projects\ALL 8\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+D:\my projects\ALL 8\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+D:\my projects\ALL 8\ALL 1\ALL\obj\x86\Debug\ALL.Form3.resources
+D:\my projects\ALL 8\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+D:\my projects\ALL 8\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\my projects\ALL 8\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\my projects\ALL 8\ALL 1\ALL\obj\x86\Debug\ALL.Form4.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\bin\Debug\ALL.exe.config
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\obj\x86\Debug\ALL.exe
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\obj\x86\Debug\ALL.xml
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\bin\Debug\Database1.sdf
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\bin\Debug\ALL.exe
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\bin\Debug\ALL.pdb
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\bin\Debug\ALL.xml
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\piyushdhore@gmail\Downloads\ALL 9\ALL 9\ALL 1\ALL\obj\x86\Debug\ALL.macF.resources
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\bin\Debug\ALL.exe.config
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\obj\x86\Debug\ALL.exe
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\obj\x86\Debug\ALL.xml
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\bin\Debug\Database1.sdf
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\bin\Debug\ALL.exe
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\bin\Debug\ALL.pdb
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\bin\Debug\ALL.xml
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\obj\x86\Debug\ALL.macF.resources
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Piyush Dhore\Downloads\ALL 13\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\bin\Debug\ALL.exe.config
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\bin\Debug\Database1.sdf
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\bin\Debug\ALL.exe
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\bin\Debug\ALL.pdb
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\bin\Debug\ALL.xml
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.macF.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.exe
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.xml
+C:\Users\piyushdhore@gmail\Downloads\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\bin\Debug\ALL.exe.config
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.exe
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.xml
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\bin\Debug\Database1.sdf
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\bin\Debug\ALL.exe
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\bin\Debug\ALL.pdb
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\bin\Debug\ALL.xml
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.macF.resources
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Piyush Dhore\Downloads\ALL  16\ALL 14\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\bin\Debug\ALL.exe.config
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.exe
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.xml
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\bin\Debug\Database1.sdf
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\bin\Debug\ALL.exe
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\bin\Debug\ALL.pdb
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\bin\Debug\ALL.xml
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.macF.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Sem 4\Systems Programming\Assembler\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.Form3.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\bin\Debug\ALL.exe.config
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.exe
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.xml
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\bin\Debug\Database1.sdf
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\bin\Debug\ALL.exe
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\bin\Debug\ALL.pdb
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\bin\Debug\ALL.xml
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.Form3.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.macF.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\piyushdhore@gmail\Downloads\ALL 18\ALL 17\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Piyush Dhore\Downloads\ALL 19\ALL 1\ALL\bin\Debug\ALL.exe.config
+C:\Users\Piyush Dhore\Downloads\ALL 19\ALL 1\ALL\obj\x86\Debug\ALL.exe
+C:\Users\Piyush Dhore\Downloads\ALL 19\ALL 1\ALL\obj\x86\Debug\ALL.xml
+C:\Users\Piyush Dhore\Downloads\ALL 19\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\bin\Debug\ALL.exe.config
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.exe
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.xml
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\bin\Debug\Database1.sdf
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\bin\Debug\ALL.exe
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\bin\Debug\ALL.pdb
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\bin\Debug\ALL.xml
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Form3.resources
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.macF.resources
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+C:\Users\C J\Downloads\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.vbproj.GenerateResource.Cache
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\ALL.exe.config
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.exe
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.xml
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\Database1.sdf
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\ALL.exe
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\ALL.pdb
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\ALL.xml
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Form3.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.macF.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Sem 4\Systems Programming\Assembler\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\ALL.exe.config
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.exe
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.xml
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\Database1.sdf
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\ALL.exe
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\ALL.pdb
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\ALL.xml
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Form3.resources
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.macF.resources
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.vbproj.GenerateResource.Cache
+C:\Users\C J\Downloads\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.HELP.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\ALL.exe.config
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.exe
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.xml
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\Database1.sdf
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\ALL.exe
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\ALL.pdb
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\bin\Debug\ALL.xml
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Form3.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.HELP.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.macF.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\piyushdhore@gmail\Downloads\ALL 23\ALL 22\ALL 21\ALL 20\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\bin\Debug\ALL.exe.config
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\ALL.exe
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\ALL.xml
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\bin\Debug\Database1.sdf
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\bin\Debug\ALL.exe
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\bin\Debug\ALL.pdb
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\bin\Debug\ALL.xml
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\ALL.Form1.resources
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\ALL.Form2.resources
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\ALL.Form3.resources
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\ALL.HELP.resources
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\ALL.macF.resources
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\ALL.Resources.resources
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Sem 4\Systems Programming\Assembler\24\ALL 1\ALL\obj\x86\Debug\ALL.SplashScreen1.resources
+H:\Sem 4\Systems Programming\Assembler\ALL 25\24\ALL 1\ALL\bin\Debug\ALL.exe.config
+H:\Sem 4\Systems Programming\Assembler\ALL 25\24\ALL 1\ALL\obj\x86\Debug\ALL.exe
+H:\Sem 4\Systems Programming\Assembler\ALL 25\24\ALL 1\ALL\obj\x86\Debug\ALL.xml
+H:\Sem 4\Systems Programming\Assembler\ALL 25\24\ALL 1\ALL\obj\x86\Debug\ALL.pdb
+H:\Sem 4\Systems Programming\Assembler\ALL 26\ALL 25\24\ALL 1\ALL\bin\Debug\ALL.exe.config
+H:\Sem 4\Systems Programming\Assembler\ALL 26\ALL 25\24\ALL 1\ALL\obj\x86\Debug\ALL.exe
+H:\Sem 4\Systems Programming\Assembler\ALL 26\ALL 25\24\ALL 1\ALL\obj\x86\Debug\ALL.xml
+H:\Sem 4\Systems Programming\Assembler\ALL 26\ALL 25\24\ALL 1\ALL\obj\x86\Debug\ALL.pdb
