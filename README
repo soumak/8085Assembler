@@ -1,1 +1,9 @@
-Hello world
+------------------------------------------------------------------------------------------------------
+Project Name: Assembler-linker-loader
+Developer : Soumak Datta
+Co-developers: Charanjit Ghai, Piyush Dhore
+Project developed as a part of Systems Programming Lab course in IIT Guwahati
+------------------------------------------------------------------------------------------------------
+
+The assembler-linker-loader project is programmed in Visual Basic language.To run the program, download the Assembler-linker-loader folder and run the .exe file.
+The source code can be modified using Microsoft Visual Studio.
